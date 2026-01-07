@@ -1,0 +1,2 @@
+# Requirements for building and packaging the desktop app
+pyinstaller>=6.0.0
